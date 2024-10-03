@@ -1,0 +1,10 @@
+body{
+    background-color: #eeeeee;
+}
+
+p,small,h1{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+
+}
